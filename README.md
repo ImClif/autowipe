@@ -1,0 +1,2 @@
+# autowipe
+fivem autowipe lol
